@@ -1,0 +1,17 @@
+*.so
+*.o
+*.elf
+EBOOT.BIN
+/libretro/obj/
+
+/libretro/msvc/msvc-2010/Debug/
+/libretro/msvc/msvc-2010/Release/
+*.suo
+*.sdf
+*.bc
+*.dll
+*.dylib
+package.json
+.npmignore
+
+a.out.*
